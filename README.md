@@ -1,2 +1,2 @@
 # beverone
-React.JS
+React
